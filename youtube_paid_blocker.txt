@@ -1,0 +1,12 @@
+! Title: Adblock Youtube Paid
+! Description: Cosmetic filters for blocking Youtube paid comments.
+! Author: David Yaacov | https://github.com/DavidYaacov
+! Version: 1.0
+! Expires: 3 days
+! Homepage: https://github.com/DavidYaacov/adblock_youtube_paid
+! License: MIT License | https://github.com/DavidYaacov/adblock_youtube_paid/blob/main/LICENSE.md
+! Support: https://github.com/DavidYaacov/adblock_youtube_paid/issues
+! RAW: https://raw.githubusercontent.com/DavidYaacov/adblock_youtube_paid/master/youtube_paid_blocker.txt
+
+youtube.com##yt-pdg-comment-chip-renderer
+youtube.com###paid-comment-images.ytd-comment-renderer
